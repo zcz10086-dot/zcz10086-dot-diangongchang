@@ -203,6 +203,18 @@ a:hover{
     padding:25px 10px;
     border: 2px solid rgb(15, 200, 141);
 }
+.line3{
+    transform: translate(-2px,-2px);
+}
+.line1{
+    transform: translateX(-4px);
+}
+.line4{
+    transform: translate(-6px,-2px);
+}
+.line2{
+    transform: translateX(-8px);
+}
 .white{
     width: 170px;
     height: 110px;
